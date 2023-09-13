@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/jTn4mnb/1.jpg",
+      "title": "The Mystery of the Lost Treasure",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/f0g04n4/boy1.png",
+      "posted_date": "2023-09-10",
+      "reading_time": 5,
+      "hashtags": ["adventure", "mystery", "treasure"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/MN6Zp1N/2.png",
+      "title": "Cooking Adventures: A Culinary Journey",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/bQyjjTM/boy2.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 4,
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/nsZYyNs/3.png",
+      "title": "Exploring the Cosmos: A Space Odyssey",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/Sxf412b/girl1.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 9,
+      "hashtags": ["space", "science", "exploration"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/W5sSBCZ/4.jpg",
+      "title": "Gardening Tips for Beginners",
+      "author": "Emily Green",
+      "author_img": "https://i.ibb.co/VvZ3xFz/girl2.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 10,
+      "hashtags": ["gardening", "plants", "green thumb"]
+    }
+  ]
